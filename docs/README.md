@@ -26,8 +26,8 @@ L'objectif est de mesurer la **qualité des données nutritionnelles** et de pro
 │   ├── metrics_20260120_133055.json  
 │   └── ...  
 └── conf/  
-    ├── db_postgres.ini  
-    └── postgresql-42.7.8.jar  
+   ├── db_postgres.ini  
+   └── postgresql-42.7.8.jar  
 
 ---
 
