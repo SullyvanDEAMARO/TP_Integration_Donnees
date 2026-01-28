@@ -1,0 +1,23 @@
+{
+  "run_ts": "2026-01-20T13:42:20.936314+00:00",
+  "nb_raw_products": 3000,
+  "nb_silver_products": 2043,
+  "nb_dim_brand": 1259,
+  "nb_dim_country": 200,
+  "nb_dim_category": 1753,
+  "nb_dim_product": 2043,
+  "nb_fact": 2043,
+  "avg_completeness_score": 0.7601041885182876,
+  "nutriscore_distribution": {
+    "E": 235,
+    "A": 136,
+    "B": 106,
+    "D": 200,
+    "C": 192,
+    "NULL": 1174
+  },
+  "nb_removed_sugars_out_of_bounds": 18,
+  "nb_removed_salt_out_of_bounds": 6,
+  "nb_removed_proteins_out_of_bounds": 1,
+  "nb_incoherent_saturated_fat_gt_fat": 2
+}

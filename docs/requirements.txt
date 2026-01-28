@@ -1,0 +1,8 @@
+Moteur de traitement distribué
+pyspark==3.5.0
+
+Connexion à PostgreSQL (scripts Python éventuels, tests, outils)
+psycopg2-binary==2.9.9
+
+Gestion de fichiers .env pour la config
+python-dotenv==1.0.1
